@@ -1,0 +1,10 @@
+Data structures:COMP111#4#A/recursion, time analysis, linked lists,stacks, queues, trees, bst, avl, splay, b_trees,hash, heaps, sorting, graphs
+,
+Introduction to programming:COMP222#3#A/algorithms, introduction to c, functions,selection, loops, pointers, arrays, structs
+,
+Introduction to programming2:COMP333#3#C/algorithms, introduction to c, functions,selection, loops, pointers, arrays, structs
+,
+Data structures2:COMP444#4#V/recursion, time analysis, linked lists,stacks, queues, trees, bst, avl, splay, b_trees,hash, heaps, sorting, graphs
+,
+Introduction to French:FREN111#3#V/letters, numbers, greetings, grammars,statements
+,
